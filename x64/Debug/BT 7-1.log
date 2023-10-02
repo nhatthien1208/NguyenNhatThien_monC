@@ -1,0 +1,67 @@
+﻿  7-1.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-1.cpp(22,11): error C2001: newline in constant
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-1.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'cout'
+  7-10.cpp
+  7-2.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,11): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,11): error C2065: '“Enter': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,20): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,20): error C2065: 'the': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,24): error C2146: syntax error: missing ';' before identifier 'hours'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,30): error C2146: syntax error: missing ';' before identifier 'worked'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,30): error C2065: 'worked': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,37): error C2146: syntax error: missing ';' before identifier 'by'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,49): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,37): error C2065: 'by': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,40): error C2146: syntax error: missing ';' before identifier 'employee'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,40): error C2065: 'employee': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,49): error C2146: syntax error: missing ';' before identifier '”'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-2.cpp(14,49): error C2065: '”': undeclared identifier
+  7-20.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-20.cpp(33,9): error C3873: '0x2212': this character is not allowed as a first character of an identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-20.cpp(33,9): error C2146: syntax error: missing ';' before identifier '−'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-20.cpp(33,9): error C2065: '−': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-20.cpp(37,27): error C3873: '0x2212': this character is not allowed as a first character of an identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-20.cpp(37,27): error C2146: syntax error: missing ')' before identifier '−'
+  7-21.cpp
+  7-25.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-25.cpp(2,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-25.cpp(2,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-25.cpp(2,9): error C2059: syntax error: '<'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-25.cpp(13,3): error C2065: 'cout': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-25.cpp(13,18): error C2065: 'endl': undeclared identifier
+  7-26.cpp
+  7-27.cpp
+  7-28.cpp
+  7-29.cpp
+  7-3.cpp
+  7-30.cpp
+  7-31.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-31.cpp(56,15): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+  7-6.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(15,26): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(15,26): error C2065: '“': undeclared identifier
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(15,30): error C2146: syntax error: missing ';' before identifier 'days'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(15,35): error C2017: illegal escape sequence
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(15,37): error C2001: newline in constant
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(15,37): error C2143: syntax error: missing ';' before 'string'
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\7-6.cpp(16,4): error C2143: syntax error: missing ';' before '}'
+  7-7.cpp
+  7-9.cpp
+  Programming Challenges 1.cpp
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(9,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(9,13): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(9,13): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(11,17): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(11,17): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(28,13): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(28,13): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(28,13): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(28,13): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(29,13): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(29,13): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(29,13): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+C:\Users\PC\source\repos\BT 7-1\BT 7-1\Programming Challenges 1.cpp(29,13): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1258)
+  Generating Code...
